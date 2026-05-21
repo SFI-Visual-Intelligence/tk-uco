@@ -1,3 +1,5 @@
+Paper: Leveraging tensor kernels to reduce objective function mismatch in deep clustering ([Link](https://api.nva.unit.no/publication/0198cc69bb7c-9f9f187a-6a98-4e85-bd7f-30fb19be7739))
+
 # Leveraging Tensor Kernels to Reduce Objective Function Mismatch in Deep Clustering
 
 This repository contains the code for the paper _"Leveraging Tensor Kernels to Reduce Objective Function Mismatch in Deep Clustering"_.
